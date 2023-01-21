@@ -2,7 +2,7 @@
 
 A tool for analyzing github pull requests before and after their merging, with the use of SonarQube.
 
-This tool was developed as part of a research namely *"Exploring the Effect of Different Maintenance Activities on the Accumulation of TD Principal"*.
+This tool was developed as part of a research namely ***"Exploring the Effect of Different Maintenance Activities on the Accumulation of TD Principal"***, for the *[TechDebt 2023 conference](https://conf.researchr.org/home/TechDebt-2023)*.
 
 ## Usage
 
